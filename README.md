@@ -6,7 +6,7 @@ We are going to find the relation between the profit and other features.
 
 The dataset used is the [50_Startups](https://www.kaggle.com/fernandobordi/50startups) from (Kaggle).
 
-If the task is a regression task, then explain the target variable and give brief statistics.
+The task is a regression task.
 
 **Target Variable: Profit**
 <br>
